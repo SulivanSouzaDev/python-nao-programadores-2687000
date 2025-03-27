@@ -7,16 +7,16 @@ print(resumo)
 resumo[1]
 
 # Imprima na tela a idade de Paloma (resposta esperada: "46")
-
+resumo.title()
 
 # Imprima na tela o trecho final da variável
-
+resumo[31:]
 
 # Converta todos as letras para minúsculo e imprima na tela
-
+resumo.lower()
 
 # Converta todas as letras para maiúscula e imprima na tela
-
+resumo.capitalize()
 
 # Formate a frase para que a primeira letra de cada palavra seja maiúscula e imprima na tela
 
